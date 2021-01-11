@@ -2,5 +2,9 @@ LINE_1 on remote master
 LINE_2 on remote master
 LINE_3 on local  apple
 LINE_4 on remote  apple
+<<<<<<< HEAD
+Daehee update
+=======
 Teacher is healthy
 
+>>>>>>> d60e1dbbc8f06a2186e805a7a46af4248b0b1940
